@@ -1,6 +1,5 @@
 # to_do
-
-A new Flutter project.
+This is a to do list app build in flutter. It work well in my android device.
 
 ## Getting Started
 
